@@ -37,5 +37,5 @@ This repo is part of my roadmap to:
 ## 🚀 How to Run  
 Clone this repository and run any script:  
 ```bash
-git clone https://github.com/your-username/fcc-scientific-computing-using-python.git
+git clone https://github.com/Alohomoraaaaa/fcc-scientific-computing-using-python.git
 cd fcc-scientific-computing-using-python
