@@ -1,12 +1,11 @@
-Luhn Algorithm 💳  
-Implementation of the Luhn algorithm to validate credit/debit card numbers.  
+# Luhn Algorithm 💳  
 
-**Key Concepts:**
+An implementation of the Luhn algorithm to validate credit and debit card numbers.  
 
-🔢 Digit extraction and manipulation  
-➕ Summing digits with conditions  
-♻️ Modulus check for validity  
-✅ Real-world use in payment systems  
+**Key Concepts:**  
+- 🔢 Digit extraction and manipulation  
+- ➕ Conditional summing of digits  
+- ♻️ Modulus check for validity  
+- ✅ Real-world use in payment systems  
 
-Part of FreeCodeCamp's Scientific Computing with Python course.  
-
+Part of FreeCodeCamp's *Scientific Computing with Python* course.  
