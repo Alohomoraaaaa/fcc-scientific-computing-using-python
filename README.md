@@ -29,8 +29,8 @@ This repo is part of my roadmap to:
 | Project Name       | Description |
 |--------------------|-------------|
 | 🔐 Caesar Cipher   | Implements a simple substitution cipher for encrypting & decrypting text. |
-| 💰 Expense Tracker | Tracks expenses and manages simple budgets via Python. |
 | 💳 Luhn Algorithm  | Validates credit/debit card numbers using the Luhn checksum method. |
+| 💰 Expense Tracker | Tracks expenses and manages simple budgets via Python. |
 | ➗ Bisection Method | Approximates the square root of a number using the bisection search algorithm. |
 
 ---
