@@ -33,6 +33,7 @@ This repo is part of my roadmap to:
 | 💰 Expense Tracker | Tracks expenses and manages simple budgets via Python. |
 | ➗ Bisection Method | Approximates the square root of a number using the bisection search algorithm. |
 | 🧩 Sudoku Solver   | Solves a 9x9 Sudoku puzzle using recursion, backtracking, and OOP concepts. |
+| 🔤 Case Converter  | Converts CamelCase/PascalCase strings into snake_case using loops and list comprehension. |
 
 ---
 
