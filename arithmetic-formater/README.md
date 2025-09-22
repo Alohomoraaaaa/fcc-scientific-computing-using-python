@@ -1,4 +1,4 @@
-# ✏️ Arithmetic Formatter  
+# Arithmetic Formatter  ✏️
 
 The **Arithmetic Formatter** is a program that arranges and displays arithmetic problems in a vertical format, similar to the way they are written by hand. It ensures neat alignment for addition and subtraction problems.  
 
@@ -13,3 +13,4 @@ The **Arithmetic Formatter** is a program that arranges and displays arithmetic 
 ---
 
 Part of FreeCodeCamp's *Scientific Computing with Python* course.  
+
