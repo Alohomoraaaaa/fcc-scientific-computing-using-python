@@ -35,6 +35,7 @@ This repo is part of my roadmap to:
 | 🧩 Sudoku Solver   | Solves a 9x9 Sudoku puzzle using recursion, backtracking, and OOP concepts. |
 | 🔤 Case Converter  | Converts CamelCase/PascalCase strings into snake_case using loops and list comprehension. |
 | ✏️ Arithmetic Formatter  | Formats arithmetic problems vertically, aligns them neatly, and optionally shows results. |
+| 🧩 Merge Sort  | An implementation of the Merge Sort algorithm to efficiently sort lists using the divide-and-conquer paradigm. |
 
 
 ---
